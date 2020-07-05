@@ -41,7 +41,7 @@
     "gulp-mocha": "^0.4.1",
     "gulp-istanbul": "^0.2.0",
     "chai-as-promised": "^4.1.1",
-    "vinyl": "^0.2.3",
+    "vinyl": "^2.2.0",
     "coveralls": "^2.10.0"
   },
   "dependencies": {
