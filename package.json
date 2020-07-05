@@ -37,7 +37,7 @@
   "devDependencies": {
     "through2": "^0.4.1",
     "gulp": "^3.6.0",
-    "chai": "^1.9.1",
+    "chai": "^2.3.0",
     "gulp-mocha": "^0.4.1",
     "gulp-istanbul": "^0.2.0",
     "chai-as-promised": "^4.1.1",
