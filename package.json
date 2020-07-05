@@ -36,7 +36,7 @@
   "homepage": "https://github.com/jussi-kalliokoski/chai-gulp-helpers",
   "devDependencies": {
     "through2": "^0.4.1",
-    "gulp": "^3.6.0",
+    "gulp": "^4.0.2",
     "chai": "^1.9.1",
     "gulp-mocha": "^0.4.1",
     "gulp-istanbul": "^0.2.0",
