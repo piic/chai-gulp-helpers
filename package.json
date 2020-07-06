@@ -38,7 +38,7 @@
     "through2": "^0.4.1",
     "gulp": "^3.6.0",
     "chai": "^1.9.1",
-    "gulp-mocha": "^0.4.1",
+    "gulp-mocha": "^7.0.2",
     "gulp-istanbul": "^0.2.0",
     "chai-as-promised": "^4.1.1",
     "vinyl": "^0.2.3",
